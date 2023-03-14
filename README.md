@@ -4,7 +4,7 @@ LoraWan uma tecnologia muito pouco conhecida atualmente, mas com um grande poten
 
 Utilizei o GPS para receber informações como coordenadas, velocidade, e trajeto percorrido.
 
-Utilizei um hardware chamado TTGO T Beam, que contém as tecnologias de LoraWan e GPS
+Utilizei um hardware chamado TTGO T Beam, que contém as tecnologias de LoraWan e GPS.
 
 Desenvolvimento da dashboard feita com o design e layout diretamente no Weblow, feito toda a lógica de negócio e programação em PHP.
 
